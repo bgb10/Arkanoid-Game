@@ -1,5 +1,5 @@
 # Arkanoid-Game
-Simple Arkanoid Game for OOP(CAU-2020-2 Object Oriented Programming) Project 3
+Simple Arkanoid Game for Class : *CAU-2020-2 Object Oriented Programming - Project 3*
 
 ## Notice
 - Must use Windows OS(it uses DirectX 3D library)
